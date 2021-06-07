@@ -62,3 +62,22 @@ Resultado: 12
 
 ### c.
 Resultado: NaN
+
+
+* # Questão 6:
+
+# Pergunta:
+
+Converta em arrow function a seguinte função:
+```
+function ola() {
+    console.log("Olá");
+}
+```
+
+# Resposta:
+```
+const ola = () => {
+    console.log("Olá");
+}
+```
